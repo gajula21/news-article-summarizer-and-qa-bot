@@ -1,9 +1,10 @@
 streamlit
 requests
 python-dotenv
-newspaper3k
-lxml
 langchain
 langchain-google-genai
 langchain-community
 google-generativeai
+lxml
+lxml_html_clean
+newspaper3k
