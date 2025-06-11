@@ -2,12 +2,8 @@ streamlit
 requests
 python-dotenv
 newspaper3k
-google-generativeai
+lxml
 langchain
 langchain-google-genai
 langchain-community
-faiss-cpu
-tiktoken
-lxml
-nltk
-Pillow
+google-generativeai
