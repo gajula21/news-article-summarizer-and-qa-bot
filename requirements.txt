@@ -8,3 +8,4 @@ google-generativeai
 lxml
 lxml_html_clean
 newspaper3k
+faiss-cpu
