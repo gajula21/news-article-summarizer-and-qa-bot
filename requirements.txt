@@ -1,0 +1,13 @@
+streamlit
+requests
+python-dotenv
+newspaper3k
+google-generativeai
+langchain
+langchain-google-genai
+langchain-community
+faiss-cpu
+tiktoken
+lxml
+nltk
+Pillow
